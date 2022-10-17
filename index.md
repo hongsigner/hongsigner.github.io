@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Jihye Leee"
+title: "Hongsigner"
 main: true
 subtitle: Digital Product Designer Jihye Leee
 description: Jihye Leee, who is a Digital Product Designer based in Seoul, South Korea. | '이지혜' 디지털 프로덕트 디자이너입니다.
@@ -8,11 +8,11 @@ description: Jihye Leee, who is a Digital Product Designer based in Seoul, South
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Jihye Leee,
+    I'm Min Eui Hong,
     </h1>
     <h1 class="intro">a Digital Product Designer.
     </h1>
-    <h2 class="intro">프로덕트 디자이너 이지혜입니다.</h2>
+    <h2 class="intro">프로덕트 브랜드 디자이너 홍민의입니다.</h2>
 </section>
 </div>
 {% include resume.html %}
