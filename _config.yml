@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
+title:          Mark Hong
 baseurl:        ""
 url:            "https://hongsigner.github.io"
 
@@ -16,13 +16,13 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          https://jihyeleee.com/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      hitchhikerj
+  name:         Mark Hong
+  url:          https://hongsigner.github.io/
+  email:        hongsigner@gmail.com  
+  github:       hongsigner
+  instagram:    @hongsigner
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/iamleejihye/iamleejihye.github.io
+  repo:         https://github.com/hongsigner/hongsigner.github.io
