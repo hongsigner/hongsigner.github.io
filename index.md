@@ -2,13 +2,13 @@
 layout: default
 title: "Hongsigner"
 main: true
-subtitle: Digital Product Designer Jihye Leee
-description: Jihye Leee, who is a Digital Product Designer based in Seoul, South Korea. | '이지혜' 디지털 프로덕트 디자이너입니다.
+subtitle: Product Brand Designer Mark Mineui Hong
+description: Mark Mineui Hong, who is a Product Brand Designer based in Seoul, South Korea. | '홍민의' 프로덕트 브랜드 디자이너입니다.
 ---
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Min Eui Hong,
+    I'm Mark Hong,
     </h1>
     <h1 class="intro">a Digital Product Designer.
     </h1>
